@@ -56,6 +56,18 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/siad007/siad007.svg" />
 </p>
 
+---
+
+<!-- Its main projects -->
+<p align="center">
+  <a href="https://github.com/phingofficial/phing">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siad007&repo=phing" />
+  </a>
+  <a href="https://github.com/siad007/versioncontrol_hg">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siad007&repo=versioncontrol_hg" />
+  </a>
+</p>
+
 <!--
 **siad007/siad007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
