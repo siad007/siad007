@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/siad007)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:siad.ardroumli@gmail.com)
+
+&nbsp;
+
 **Languages and Tools:** 
 
 <!-- Your github readme stats
