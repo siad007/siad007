@@ -31,6 +31,14 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 </p>
 
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+-->
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/siad007/siad007.svg" />
+</p>
+
 <!--
 **siad007/siad007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
