@@ -18,6 +18,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazone_aws/amazone_aws-ar21.svg"></code>
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
